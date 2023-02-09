@@ -1,0 +1,5 @@
+Resolusi Tahun Ini Harus Jago:
+
+-Html
+-Css
+-Javascript
