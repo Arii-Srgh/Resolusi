@@ -6,3 +6,4 @@ Resolusi Tahun Ini Harus Jago:
 
 sedikit 
 -Python
+aa
